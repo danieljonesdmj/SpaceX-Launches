@@ -1,0 +1,30 @@
+.cntnr {
+  margin: auto;
+  border: black 8px solid;
+  width: 100%;
+  max-width: 300px;
+  background-color: #d9dde1;
+  min-height: 400px;
+  border-radius: 75px 5px;
+  overflow: hidden;
+}
+
+.title {
+  text-align: center;
+  font-size: 2rem;
+  margin-bottom: 8px;
+}
+
+.img_cntnr {
+  display: flex;
+  justify-content: center;
+  padding-top: 24px;
+}
+
+.launch_data {
+  padding: 16px;
+}
+
+.launch_data li {
+  padding-bottom: 8px;
+}
